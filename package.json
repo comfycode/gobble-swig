@@ -1,0 +1,21 @@
+{
+  "name": "gobble-swig",
+  "version": "0.1.0",
+  "description": "Compile swig templates with gobble",
+  "author": {
+    "name": "comfycode"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comfycode/gobble-swig.git"
+  },
+  "dependencies": {
+    "swig": "^1.4.2"
+  },
+  "keywords": [
+    "gobble",
+    "gobble-swig",
+    "swig"
+  ]
+}
